@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 6 elements to &apos;USACO Practice/Dec13/Dec13&apos;&#x0A;- Original project: &apos;USACO Practice&apos;&#x0A;- Destination element: &apos;USACO Practice/Dec13/Dec13&apos;&#x0A;- Original elements:&#x0A;     wormhole2.java&#x0A;     msched.java&#x0A;     shuffle.java&#x0A;     ccski.java&#x0A;     vacation.java&#x0A;     wormhole.java&#x0A;- Update references to refactored element" description="Move compilation units" destination="/Dec13&lt;Dec13" element1="/Dec13&lt;{wormhole2.java" element2="/Dec13&lt;{msched.java" element3="/Dec13&lt;{shuffle.java" element4="/Dec13&lt;{ccski.java" element5="/Dec13&lt;{vacation.java" element6="/Dec13&lt;{wormhole.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1407024698935" units="6" version="1.0"/>
+</session>

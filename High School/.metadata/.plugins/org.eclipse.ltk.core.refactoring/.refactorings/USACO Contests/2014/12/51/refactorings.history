@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;USACO Practice&apos;&#x0A;- Original project: &apos;USACO Contests&apos;&#x0A;- Destination element: &apos;USACO Practice&apos;&#x0A;- Original elements:&#x0A;     cowjog.in&#x0A;     cowjog.out" description="Copy files" destination="=USACO Practice" element1="cowjog.in" element2="cowjog.out" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1418647162738" units="0" version="1.0"/>
+</session>

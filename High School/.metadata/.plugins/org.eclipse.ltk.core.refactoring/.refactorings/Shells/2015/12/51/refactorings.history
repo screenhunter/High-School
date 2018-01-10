@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;USACO.java&apos; to &apos;USACO Contests/Dec15/(default package)&apos;&#x0A;- Original project: &apos;Shells&apos;&#x0A;- Destination element: &apos;USACO Contests/Dec15/(default package)&apos;&#x0A;- Original element: &apos;USACO.java&apos;" description="Copy compilation unit" destination="=USACO Contests/Dec15&lt;" element1="/USACO&lt;{USACO.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1450132219299" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,16 @@
+package Random;
+
+public class Proof {
+	
+	public static BufferedReader in;
+	
+	public static void main(String[] args) {
+		
+		in = new BufferedReader(new InputStreamReader(System.in));
+		
+		
+		in.close();
+		
+	}
+
+}

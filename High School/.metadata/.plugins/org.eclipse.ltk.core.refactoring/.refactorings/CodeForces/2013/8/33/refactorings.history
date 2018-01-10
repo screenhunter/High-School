@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 5 elements to &apos;CodeForces/src/round190&apos;&#x0D;&#x0A;- Original project: &apos;CodeForces&apos;&#x0D;&#x0A;- Destination element: &apos;CodeForces/src/round190&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     A.java&#x0D;&#x0A;     D.java&#x0D;&#x0A;     B3.java&#x0D;&#x0A;     B.java&#x0D;&#x0A;     B2.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;round190" element1="/src&lt;{A.java" element2="/src&lt;{D.java" element3="/src&lt;{B3.java" element4="/src&lt;{B.java" element5="/src&lt;{B2.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1376667519341" units="5" version="1.0"/>
+</session>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Back_To_School_2012"/>
+	<classpathentry kind="src" path="Summer_Silver"/>
+	<classpathentry kind="src" path="Mini Contest"/>
+	<classpathentry kind="src" path="Graph Theory"/>
+	<classpathentry kind="src" path="December Contest"/>
+	<classpathentry kind="src" path="Back_To_School_2013"/>
+	<classpathentry kind="src" path="1_A+B"/>
+	<classpathentry kind="src" path="CodeForces Practice Problems"/>
+	<classpathentry kind="src" path="Snow Day Contest"/>
+	<classpathentry kind="src" path="Back_To_School_2014"/>
+	<classpathentry kind="src" path="Summer Contest 2015"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

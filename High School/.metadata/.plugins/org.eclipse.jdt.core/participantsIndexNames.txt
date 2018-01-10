@@ -1,0 +1,3 @@
+INDEX VERSION 1.126
+/Users/rajatkhanna/Documents/Work/Eclipse Workspace 1.7/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2857718821.index
+/Spring4MVCHelloWorld/src/main/resources

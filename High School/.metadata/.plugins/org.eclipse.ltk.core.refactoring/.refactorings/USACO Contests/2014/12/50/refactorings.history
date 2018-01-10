@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;USACO Contests/problem.in&apos; to &apos;piggyback.in&apos;" description="Rename resource &apos;problem.in&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="problem.in" name="piggyback.in" stamp="1418499950412" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;USACO Contests/problem.out&apos; to &apos;piggyback.out&apos;" description="Rename resource &apos;problem.out&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="problem.out" name="piggyback.out" stamp="1418499968706" updateReferences="true"/>
+</session>

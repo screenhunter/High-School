@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Dec13"/>
+	<classpathentry kind="src" path="Nov13"/>
+	<classpathentry kind="src" path="Feb13"/>
+	<classpathentry kind="src" path="Mar13"/>
+	<classpathentry kind="src" path="Dec12"/>
+	<classpathentry kind="src" path="Nov12"/>
+	<classpathentry kind="src" path="Open13"/>
+	<classpathentry kind="src" path="Jan13"/>
+	<classpathentry kind="src" path="Jan14"/>
+	<classpathentry kind="src" path="Feb14"/>
+	<classpathentry kind="src" path="Mar14"/>
+	<classpathentry kind="src" path="Open14"/>
+	<classpathentry kind="src" path="Dec14"/>
+	<classpathentry kind="src" path="Jan15"/>
+	<classpathentry kind="src" path="Feb15"/>
+	<classpathentry kind="src" path="Open15"/>
+	<classpathentry kind="src" path="Dec15"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

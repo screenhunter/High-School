@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;ACSL/acsl.in&apos; to &apos;ACSL_Print.in&apos;" description="Rename resource &apos;acsl.in&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="acsl.in" name="ACSL_Print.in" stamp="1394847272251" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;ACSL/ACSL_Print.in&apos; to &apos;ACSL_Print._Formattingin&apos;" description="Rename resource &apos;ACSL_Print.in&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="ACSL_Print.in" name="ACSL_Print._Formattingin" stamp="1394847289744" updateReferences="true"/>
+</session>

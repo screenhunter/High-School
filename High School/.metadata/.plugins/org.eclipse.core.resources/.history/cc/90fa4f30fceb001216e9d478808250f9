@@ -1,0 +1,15 @@
+package Chemistry;
+
+import java.util.HashMap;
+
+public class PolyatomicIonGame {
+	
+	public static void main(String[] args) {
+		
+		HashMap<String, String> db = new HashMap<String, String>;
+		HashMap<> String charges = new HashMap<String, String>
+		
+		
+	}
+
+}

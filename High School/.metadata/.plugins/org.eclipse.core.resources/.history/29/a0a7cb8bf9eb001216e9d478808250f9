@@ -1,0 +1,27 @@
+package Chemistry;
+
+public class PolyatomicIonGame {
+	
+	public static void main(String[] args) {
+		
+		HashMap<String, String>
+		
+	}
+
+}
+
+class Molecule {
+	
+	public int charge;
+	public String name;
+	public String formula;
+	
+	public Molecule(int c, String n, String f) {
+		
+		charge = c;
+		name = n;
+		formula = f;
+		
+	}
+	
+}

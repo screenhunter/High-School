@@ -1,0 +1,107 @@
+package Chemistry;
+
+import java.io.InputStreamReader;
+import java.util.HashMap;
+
+public class PolyatomicIonGame {
+	
+	public static void main(String[] args) {
+		
+		HashMap<String, String> db = new HashMap<String, String>();
+		HashMap<String, String> charges = new HashMap<String, String>();
+		update(db, charges);
+		
+		BufferedReader in = new BufferedReader(new InputStreamReader(System.in))
+		
+	}
+
+	private static void update(HashMap<String, String> db,
+			HashMap<String, String> charges) {
+
+		db.put("ammonium", "NH4");
+		charges.put("ammonium", "+1");
+		
+		db.put("hydronium", "H3O");
+		charges.put("hydronium", "+1");
+		
+		db.put("acetate", "C2H3O2");
+		charges.put("acetate", "-1");
+		
+		db.put("amide", "NH2");
+		charges.put("amide", "-1");
+		
+		db.put("azide", "N3");
+		charges.put("azide", "-1");
+		
+		db.put("hydrazide", "N2H3");
+		charges.put("hydrazide", "-1");
+		
+		db.put("benzoate", "C7H5O2");
+		charges.put("benzoate", "-1");
+		
+		db.put("bitartrate", "HC4H4O6");
+		charges.put("bitartrate", "-1");
+
+		db.put("bromate", "BrO3");
+		charges.put("bromate", "-1");
+		
+		db.put("perchlorate", "ClO4");
+		charges.put("perchlorate", "-1");
+
+		db.put("chlorate", "ClO3");
+		charges.put("chlorate", "-1");
+		
+		db.put("chlorite", "ClO2");
+		charges.put("chlorite", "-1");
+
+		db.put("hypochlorite", "ClO");
+		charges.put("hypochlorite", "-1");
+		
+		db.put("cyanate", "OCN");
+		charges.put("cyanate", "-1");
+
+		db.put("cyanide", "CN");
+		charges.put("cyanide", "-1");
+		
+		db.put("bicarbonate", "HCO3");
+		charges.put("bicarbonate", "-1");
+		
+		db.put("bisulfate", "HSO4");
+		charges.put("bisulfate", "-1");
+		
+		db.put("bisulfite", "HSO3");
+		charges.put("bisulfite", "-1");
+		
+		db.put("bisulfide", "HS");
+		charges.put("bisulfide", "-1");
+		
+		db.put("hydroxide", "OH");
+		charges.put("hydroxide", "-1");
+		
+		db.put("iodate", "IoO3");
+		charges.put("iodate", "-1");
+		
+		db.put("triiodide", "Io3");
+		charges.put("triiodide", "-1");
+
+		db.put("nitrate", "NO3");
+		charges.put("nitrate", "-1");
+		
+		db.put("nitrite", "NO2");
+		charges.put("nitrite", "-1");
+		
+		db.put("permanganate", "MnO4");
+		charges.put("permanganate", "-1");
+		
+		db.put("dihydrogen phosphate", "H2PO4");
+		charges.put("dihydrogen phosphate", "-1");
+		
+		db.put("thiocyanate", "SCN");
+		charges.put("thiocyanate", "-1");
+		
+		for (String s: db.keySet())
+			db.put(db.get(s), s);
+		
+	}
+
+}

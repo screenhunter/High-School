@@ -1,0 +1,31 @@
+Area Fill
+The text file "area.txt" contain rows and columns filled with different characters.  Here is the data file "area2.txt": 
+9 12
+..........00
+...0....0000
+...000000000
+0000.....000
+............
+..#########.
+..#...#####.
+......#####.
+...00000....
+
+First, read and display the contents of this matrix to the screen.   I don't need to tell you to use methods.
+Second, prompt the user for (row, col) coordinates and note the character stored in that position. Fill the area defined by the cells of the matrix containing that same character and bounded (up, down, left, right, but NOT diagonals) by unlike characters with some other character. For example, if the original matrix is "area2.txt" as shown above, the prompted position is (0, 6), and the fill character is "*", the matrix with the filled-in area would look like: 
+
+Enter ROW COL to fill from: 0 3
+**********00 
+***0****0000 
+***000000000 
+0000.....000 
+............ 
+..#########. 
+..#...#####. 
+......#####. 
+...00000.... 
+
+Display this new matrix.  Keep prompting until the user wants to quit.
+
+Hint:  Filling an area, which is similar to escaping a maze, is naturally recursive.
+
